@@ -22,7 +22,7 @@ msgid "Supports Painting"
 msgstr "Malování podpěr"
 
 msgid "Please select single object."
-msgstr ""
+msgstr "Vyberte prosím jeden objekt."
 
 msgid "Mouse wheel"
 msgstr "Kolečko myši"
@@ -113,6 +113,8 @@ msgid ""
 "Warning: All triangle areas are too small,The current function is not "
 "working."
 msgstr ""
+"Varování: Všechny oblasti trojúhelníků jsou příliš malé, aktuální funkce není"
+"pracovní."
 
 msgid "Lay on face"
 msgstr "Plochou na podložku"
@@ -169,16 +171,16 @@ msgid "Toggle Wireframe"
 msgstr "Přepnout drátový model"
 
 msgid "Shift + L"
-msgstr ""
+msgstr "Shift + L"
 
 msgid "Toggle non-manifold edges"
-msgstr ""
+msgstr "Přepnout nerozdělené hrany"
 
 msgid "Rotate horizontally"
-msgstr ""
+msgstr "Otočte vodorovně"
 
 msgid "hit face"
-msgstr ""
+msgstr "zasažený obličej"
 
 msgid "Shortcut Key "
 msgstr "Klávesová Zkratka "
@@ -187,22 +189,22 @@ msgid "Triangle"
 msgstr "Trojúhelník"
 
 msgid "Height Range"
-msgstr "Rozsah výš"
+msgstr "Výškový rozsah"
 
 msgid "Place input box of bottom near mouse"
-msgstr ""
+msgstr "Umístěte vstupní pole zespodu blízko myši"
 
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikální"
 
 msgid "Horizontal"
-msgstr ""
+msgstr "Horizontální"
 
 msgid "View: keep horizontal"
-msgstr ""
+msgstr "Pohled: držte se vodorovně"
 
 msgid "Remove painted color"
-msgstr "Odbarvení"
+msgstr "Odstraňte natřenou barvu"
 
 #, boost-format
 msgid "Painted using: Filament %1%"
@@ -212,7 +214,7 @@ msgid "Move"
 msgstr "Přesunout"
 
 msgid "Please select at least one object."
-msgstr ""
+msgstr "Vyberte prosím alespoň jeden objekt."
 
 msgid "Rotate"
 msgstr "Otočit"
@@ -230,19 +232,19 @@ msgid "Error: Please close all toolbar menus first"
 msgstr "Chyba: Nejprve prosím zavřete všechny nabídky panelu nástrojů"
 
 msgid "Tool-Move"
-msgstr ""
+msgstr "Nástroj-pohyb"
 
 msgid "Tool-Scale"
-msgstr ""
+msgstr "Nástroj-měřítko"
 
 msgid "Tool-Rotate"
-msgstr ""
+msgstr "Nástroj-rotace"
 
 msgid "Tool-Lay on Face"
 msgstr "Nástroj-Plochou na podložku"
 
 msgid "Bottom:"
-msgstr ""
+msgstr "Dole:"
 
 msgid "in"
 msgstr "v"
@@ -251,19 +253,19 @@ msgid "mm"
 msgstr "mm"
 
 msgid "Part selection"
-msgstr ""
+msgstr "Výběr dílu"
 
 msgid "Fixed step drag"
-msgstr ""
+msgstr "Opravený krokový tah"
 
 msgid "Single sided scaling"
-msgstr ""
+msgstr "Jednostranné škálování"
 
 msgid "Position"
 msgstr "Pozice"
 
 msgid "Rotate (relative)"
-msgstr ""
+msgstr "Otočit (relativní)"
 
 msgid "Scale ratios"
 msgstr "Poměry měřítka"
@@ -275,7 +277,7 @@ msgid "Volume Operations"
 msgstr "Operace s objemem"
 
 msgid "Translate"
-msgstr "Posunout"
+msgstr "Přeložit"
 
 msgid "Group Operations"
 msgstr "Skupinové operace"
@@ -293,22 +295,22 @@ msgid "Reset Rotation"
 msgstr "Výchozí Natočení"
 
 msgid "Object coordinates"
-msgstr ""
+msgstr "Souřadnice objektu"
 
 msgid "World coordinates"
 msgstr "Světové souřadnice"
 
 msgid "Reset current rotation to real zeros."
-msgstr ""
+msgstr "Resetujte aktuální rotaci na skutečné nuly."
 
 msgid "°"
 msgstr "°"
 
 msgid "Reset current rotation to the value when open the rotation tool."
-msgstr ""
+msgstr "Resetujte aktuální rotaci na hodnotu při otevření rotačního nástroje."
 
 msgid "Part coordinates"
-msgstr ""
+msgstr "Souřadnice dílu"
 
 msgid "%"
 msgstr "%"
@@ -327,12 +329,14 @@ msgid "Object"
 msgstr "Objekt"
 
 msgid "Drag to move the cut plane"
-msgstr ""
+msgstr "Tažením přesuňte rovinu řezu"
 
 msgid ""
 "Drag to move the cut plane\n"
 "Right-click a part to assign it to the other side"
 msgstr ""
+"Přetažením přesunete rovinu řezu\n"
+"Kliknutím pravým tlačítkem na součást ji přiřadíte na druhou stranu"
 
 msgid "Left click"
 msgstr "Levý klik"
@@ -362,22 +366,22 @@ msgid "Select all connectors"
 msgstr "Vybrat všechny spojky"
 
 msgid "Left drag"
-msgstr ""
+msgstr "Levý tah"
 
 msgid "Plot cut plane"
-msgstr ""
+msgstr "Plocha řezu"
 
 msgid "right click"
-msgstr ""
+msgstr "pravý tah"
 
 msgid "Assign the part to the other side"
-msgstr ""
+msgstr "Přiřaďte díl na druhou stranu"
 
 msgid "Cut"
 msgstr "Řezat"
 
 msgid "non-manifold edges be caused by cut tool, do you want to fix it now?"
-msgstr ""
+msgstr "nerozdělovací hrany byly způsobeny řezným nástrojem, chcete to nyní opravit?"
 
 msgid "Repairing model object"
 msgstr "Oprava objektu modelu"
@@ -386,22 +390,22 @@ msgid "Connector"
 msgstr "Spojka"
 
 msgid "Flip cut plane"
-msgstr ""
+msgstr "Převrátit rovinu řezu"
 
 msgid "Planar"
-msgstr ""
+msgstr "Rovinný"
 
 msgid "Dovetail"
-msgstr ""
+msgstr "Rybina"
 
 msgid "Mode"
-msgstr ""
+msgstr "Mód"
 
 msgid "Movement:"
 msgstr "Přejezd:"
 
 msgid "Groove Angle"
-msgstr ""
+msgstr "Úhel drážky"
 
 #. TRN - Input label. Be short as possible
 msgid "Rotation"
@@ -420,20 +424,20 @@ msgid "Add connectors"
 msgstr "Přidat spojky"
 
 msgid "Groove"
-msgstr ""
+msgstr "Drážka"
 
 #. TRN - Input label. Be short as possible
 msgid "Depth"
-msgstr ""
+msgstr "Hloubka"
 
 msgid "Width"
 msgstr "Šířka"
 
 msgid "Flap Angle"
-msgstr ""
+msgstr "Úhel klapky"
 
 msgid "Keep orientation"
-msgstr ""
+msgstr "Udržujte orientaci"
 
 msgid "Place on cut"
 msgstr "Umístit řezem na podložku"
@@ -487,13 +491,13 @@ msgid "Hexagon"
 msgstr "Šestiúhelník"
 
 msgid "Snap global parameters"
-msgstr ""
+msgstr "Uchopte globální parametry"
 
 msgid "Bulge"
-msgstr ""
+msgstr "Boule"
 
 msgid "Gap"
-msgstr ""
+msgstr "Mezera"
 
 msgid "Confirm connectors"
 msgstr "Potvrzení spojek"
@@ -526,6 +530,8 @@ msgid ""
 "Invalid state. \n"
 "No one part is selected to keep after cut"
 msgstr ""
+"Neplatný stav. \n"
+"Žádná část není vybrána k zachování po vyříznutí"
 
 msgid "Plug"
 msgstr "Čep"
@@ -534,7 +540,7 @@ msgid "Dowel"
 msgstr "Kolík"
 
 msgid "Snap"
-msgstr ""
+msgstr "Snap"
 
 msgid "Tolerance"
 msgstr "Tolerance"
@@ -596,7 +602,7 @@ msgid "%1%"
 msgstr "%1%"
 
 msgid "Can't apply when process preview."
-msgstr ""
+msgstr "Nelze použít při zpracování náhledu."
 
 msgid "Operation already cancelling. Please wait few seconds."
 msgstr "Operace se ukončuje. Prosíme o chvíli strpení."
@@ -608,56 +614,57 @@ msgid "Perform Recognition"
 msgstr "Provést rozpoznávání"
 
 msgid "Vertex"
-msgstr ""
+msgstr "Vrchol"
 
 msgid "Edge"
-msgstr ""
+msgstr "Okraj"
 
 msgid "Plane"
-msgstr ""
+msgstr "Rovina"
 
 msgid "Point on edge"
-msgstr ""
+msgstr "Bod na hraně"
 
 msgid "Point on circle"
-msgstr ""
+msgstr "Bod na kruh"
 
 msgid "Point on plane"
-msgstr ""
+msgstr "Bod na rovině"
 
 msgid "Center of edge"
-msgstr ""
+msgstr "Střed okraje"
 
 msgid "Center of circle"
-msgstr ""
+msgstr "Střed kruhu"
 
 msgid "Select feature"
-msgstr ""
+msgstr "Vybrat funkci"
 
 msgid "Select point"
-msgstr ""
+msgstr "Vyberte bod"
 
 msgid "Delete"
 msgstr "Smazat"
 
 msgid "Restart selection"
-msgstr ""
+msgstr "Restartovat výběr"
 
 msgid "Esc"
 msgstr "Esc"
 
 msgid "Cancel a feature until exit"
-msgstr ""
+msgstr "Zrušte funkci až do ukončení"
 
 msgid "Measure"
-msgstr ""
+msgstr "Opatření"
 
 msgid ""
 "Please confirm explosion ratio = 1,and please select at least one object"
 msgstr ""
+"Potvrďte poměr výbuchu = 1 a vyberte alespoň jeden objekt"
 
 msgid "Edit to scale"
-msgstr ""
+msgstr "Upravit v měřítku"
 
 msgctxt "Verb"
 msgid "Scale all"
@@ -673,7 +680,7 @@ msgid "Length"
 msgstr "Vzdálenost"
 
 msgid "Selection"
-msgstr ""
+msgstr "Výběr"
 
 msgid " (Moving)"
 msgstr ""
